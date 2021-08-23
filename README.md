@@ -1,0 +1,1 @@
+# test-ts-jtest-module-alias
